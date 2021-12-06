@@ -5,9 +5,10 @@
  }
  #home {
  	background: url("images/two.jpg") no-repeat center center fixed;
-    display:  table; 
+    display:  flex;
+    justify-content: center; 
+    align-items:  center;
     height: 100vh; 
-    position:  center;
     width: 100vw; 
     background-size:  cover;
 }
@@ -17,9 +18,22 @@
 	vertical-align: middle;
 }
 .landing-text h1 {
-	font-size:  500;
-	font-weight: 700;
+	font-size:  800;
+	font-weight: 600;
 }
 .middle{
-	background-color: rgb(180,80,132);
+	background-color: rgb(65,118,137,0.7);
+
+}
+.quality{
+	background-color: rgb(45,148,157,0.7);
+}
+.cave{
+	width: 250px;
+	height: 225px;
+	
+}
+.sunset{
+	width: 250px;
+	height: 225px;
 }
