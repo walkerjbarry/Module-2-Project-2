@@ -18,10 +18,7 @@
 	vertical-align: middle;
 }
 
-.landing-text h1 {
-	font-size:  800;
-	font-weight: 600;
-}
+
 
 .bolt{
 	size:  large;
@@ -47,6 +44,11 @@
 }
 
 .contact{
-	justify-content:  center;
-	align-items:  center;
+	
+	text-align: center;
 }
+
+.boxes{
+
+
+	}
