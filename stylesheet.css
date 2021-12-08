@@ -4,7 +4,7 @@
  }
 
  #home {
- 	background: url("images/two.jpg") no-repeat center center fixed;
+ 	background: url("images/two.jpg") no-repeat center center;
     display:  flex;
     justify-content: center; 
     align-items:  center;
@@ -14,11 +14,10 @@
 }
 
 .landing-text {
+	
 	text-align: center;
 	vertical-align: middle;
 }
-
-
 
 .bolt{
 	size:  large;
@@ -44,12 +43,41 @@
 	text-align: center;
 }
 
+.centered{
+font-size: 100 px;
+color:  white;
+}
+
+.unleash{
+	background: url("images/unleash.jpg") no-repeat center center ;
+	display:  flex;
+    justify-content: center; 
+    align-items:  center;
+    height: 100vh; 
+
+    background-size:  cover;
+}
+
+.synergize{
+	background: url("images/synergize.jpg") no-repeat center center ;
+    display:  flex;
+    justify-content: center; 
+    align-items:  center;
+    height: 100vh; 
+  
+    background-size: cover;
+}
+
 .procrastinate{
-    outline: solid 5px transparent;
+	background: url("images/procrastinate.jpg") no-repeat center center ;
+    display:  flex;
+    justify-content: center; 
+    align-items:  center;
+    height: 100vh; 
+    
+    background-size: cover;
+  
 }
 .procrastinate:hover {
-    outline: solid 5px lightskyblue;
-    margin:  -5 px;
-
-
+  
 }
