@@ -29,10 +29,6 @@
 	background-color: rgb(65,118,137,0.7);
 }
 
-.quality{
-	background-color: rgb(45,148,157,0.7);
-}
-
 .seven{
 	width: 250px;
 	height: 225px;
@@ -48,7 +44,12 @@
 	text-align: center;
 }
 
-.boxes{
+.procrastinate{
+    outline: solid 5px transparent;
+}
+.procrastinate:hover {
+    outline: solid 5px lightskyblue;
+    margin:  -5 px;
 
 
-	}
+}
