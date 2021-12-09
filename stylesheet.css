@@ -13,18 +13,14 @@
     background-size:  cover;
 }
 
-.landing-text {
-	display:  flex;
-	font-size: 6rem;
-	text-align: center;
-	vertical-align: middle;
-	
+.landing-text{
+
+	color:  white;
 }
-
-
 
 .landing-text-2{
 	
+	color:  white;
 	text-align: center;
 	vertical-align: middle;
 }
@@ -32,7 +28,7 @@
 .bolt{
 	size:  large;
 	display: flex;
- justify-content: center;
+ 	justify-content: center;
 }
 
 .pin{
@@ -70,35 +66,52 @@ color:  white;
 }
 
 .gallery{
-	height: 200px;
+	height: 250px;
+	margin-right: -60px;
 
 }
-
-.unleash{
-	background: url("images/unleash.jpg") no-repeat center center ;
-	display:  flex;
-    justify-content: center; 
-    align-items:  center;
-    background-size: contain;
- }
-
-
-.synergize{
-	background: url("images/synergize.jpg") no-repeat center center ;
-    display:  flex;
-    justify-content: center; 
-    align-items:  center;
-    background-size: contain;
-   }
 
 .procrastinate{
 	background: url("images/procrastinate.jpg") no-repeat center center ;
     display:  flex;
     justify-content: center; 
     align-items:  center; 
-    background-size: contain; 
+    background-size: cover;
+    
+    
 }
 
 .procrastinate:hover {
-  
+  border-color: rgb(0, 0, 0, 0.5);
+  border: 10px;
+}
+
+.synergize{
+	background: url("images/synergize.jpg") no-repeat center center ;
+    display:  flex;
+    justify-content: center; 
+    align-items:  center; 
+    background-size: cover;
+    
+   
+}
+
+.synergize:hover {
+  border: 10px;
+  border-color: rgb(0, 0, 0, 0.5);
+ 
+}
+.unleash{
+	background: url("images/unleash.jpg") no-repeat center center ;
+    display:  flex;
+    justify-content: center; 
+    align-items:  center; 
+    background-size: cover;
+    
+    
+}
+
+.unleash:hover {
+  border-color: rgb(0, 0, 0, 0.5);
+  border: 10px;
 }
