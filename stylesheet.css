@@ -47,13 +47,13 @@
 }
 
 .seven{
-	width: 250px;
-	height: 225px;
+	width: 475px;
+	height: 350px;
 }
 
 .sunset{
-	width: 250px;
-	height: 225px;
+	width: 475px;
+	height: 350px;
 }
 
 .sanity{
@@ -69,36 +69,36 @@ font-size: 100 px;
 color:  white;
 }
 
+.gallery{
+	height: 200px;
+
+}
+
 .unleash{
 	background: url("images/unleash.jpg") no-repeat center center ;
 	display:  flex;
     justify-content: center; 
     align-items:  center;
-    height: 100vh; 
+    background-size: contain;
+ }
 
-    background-size:  cover;
-}
 
 .synergize{
 	background: url("images/synergize.jpg") no-repeat center center ;
     display:  flex;
     justify-content: center; 
     align-items:  center;
-    height: 100vh; 
-  
-    background-size: cover;
-}
+    background-size: contain;
+   }
 
 .procrastinate{
 	background: url("images/procrastinate.jpg") no-repeat center center ;
     display:  flex;
     justify-content: center; 
-    align-items:  center;
-    height: 100vh; 
-    
-    background-size: cover;
-  
+    align-items:  center; 
+    background-size: contain; 
 }
+
 .procrastinate:hover {
   
 }
