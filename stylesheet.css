@@ -55,7 +55,6 @@
 }
 
 .seven{
-	display: flex;
 	width: 75%;
 	height: 60%;
 }
@@ -129,4 +128,7 @@ color:  white;
 .unleash:hover {
   	background-size: 110%; 
    border: 10px solid rgba(255,255,255,0.3);
+}
+footer{
+	height: 200 px;
 }
