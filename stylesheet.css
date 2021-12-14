@@ -44,25 +44,15 @@
 	background-color: rgb(65,118,137,0.7);
 }
 
-.classify{
-	display: flex;
- 	justify-content: center;
-}
-
-.test{
-	display: flex;
- 	justify-content: center;
-}
-
 .seven{
-	width: 75%;
-	height: 60%;
+	width: 175 px;
+	height:  150 px;
 }
 
 .sunset{
-	display: flex;
-	width: 65%;
-	height:  110%;
+	
+	width: 175 px;
+	height:  150 px;
 }
 
 .sanity{
@@ -74,8 +64,8 @@
 }
 
 .centered{
-font-size: 100 px;
-color:  white;
+	font-size: 100 px;
+	color:  white;
 }
 
 .gallery{
