@@ -21,7 +21,6 @@
 }
 
 .landing-text-2{
-	
 	color:  white;
 	text-align: center;
 	vertical-align: middle;
@@ -45,22 +44,12 @@
 }
 
 .seven{
-	width: 175 px;
-	height:  150 px;
-}
-
-.sunset{
-	
-	width: 175 px;
-	height:  150 px;
+	width: 35vw;
+	height:  20vh;
 }
 
 .sanity{
 	text-align:  center;
-}
-.contact{
-	
-	text-align: center;
 }
 
 .centered{
@@ -71,7 +60,6 @@
 .gallery{
 	height: 250px;
 	margin-right: -60px;
-
 }
 
 .procrastinate{
@@ -119,3 +107,8 @@
   	background-size: 110%; 
    border: 10px solid rgba(255,255,255,0.3);
 }
+
+.contact{
+	align-items: center;
+}
+
