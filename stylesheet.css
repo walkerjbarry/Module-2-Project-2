@@ -30,7 +30,7 @@
 	size:  large;
 	display: flex;
  	justify-content: center;
-
+ 	color: yellow;
 }
 
 .pin{
@@ -49,8 +49,8 @@
 	height: 20vh;
 }
 .ten{
-	width: 35vw;
-	height: 20vh;
+	width: 50%;
+	height: 15%;
 }
 
 .sanity{
