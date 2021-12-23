@@ -23,13 +23,14 @@
 .landing-text-2{
 	color:  white;
 	text-align: center;
-	vertical-align: middle;
+	
 }
 
 .bolt{
 	size:  large;
 	display: flex;
  	justify-content: center;
+
 }
 
 .pin{
@@ -43,9 +44,13 @@
 	background-color: rgb(65,118,137,0.7);
 }
 
-.seven{
+.six{
 	width: 35vw;
-	height:  20vh;
+	height: 20vh;
+}
+.ten{
+	width: 35vw;
+	height: 20vh;
 }
 
 .sanity{
