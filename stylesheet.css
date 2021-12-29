@@ -1,4 +1,8 @@
 
+#NavbarSupportedContent{
+	justify-content: right;
+}
+
 .three{ height: 100vh;
 	width: 100vw;
  }
@@ -31,7 +35,7 @@
 	display: flex;
  	justify-content: center;
  	color: yellow;
-}
+} 
 
 .pin{
 	size:  large;
@@ -45,12 +49,13 @@
 }
 
 .six{
-	width: 35vw;
-	height: 20vh;
+   height: 320px; 
+   width: 430px;
 }
-.ten{
-	width: 50%;
-	height: 15%;
+
+.two{
+	height: 320px;
+	width: 430px;
 }
 
 .sanity{
@@ -73,8 +78,6 @@
     justify-content: center; 
     align-items:  center; 
     background-size: cover;
-    
-    
 }
 
 .procrastinate:hover {
